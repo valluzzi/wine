@@ -1,2 +1,2 @@
 # wine
-Dockerfile for gdal/python
+Dockerfile ubuntu+gdal+python+wine
